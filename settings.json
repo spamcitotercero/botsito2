@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "BOTSITO_SHARK",
+    "username": "BOTSITO",
     "password": "",
     "type": "mojang"
   },
@@ -32,20 +32,16 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 480,
+      "repeat-delay": 2000,
 
       "messages": [
         "/login megabot",
         "/gamemode creative",
-        "Sigan a EFRAA SHARK en Instagram Porfavor :) https://www.instagram.com/efraa.shark/",
-        "Suscribanse a EFRAA SHARK en Youtube Porfavor :) https://www.youtube.com/@efraashark",
-        "No te olvides de seguir a EFRAA SHARK en Twitch https://www.twitch.tv/efraa_shark",
-        "AYUDA el efra me tiene secuestrado en el sotano y me obliga a mandar esos mensajes ayudaaaa"
       ]
     },
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 2500
   }
 }
