@@ -28,7 +28,7 @@
 ## Features
 
  - Anti-AFK Kick Module
- - Move to target block after join
+ - Move  to target block after join
  - Mojang/Microsoft Account support
  - Chat log
  - Chat messages Module
