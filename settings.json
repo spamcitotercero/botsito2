@@ -38,7 +38,6 @@
         "/register megabot megabot",
         "/login megabot",
         "/gamemode creative",
-      ]
     },
 
     "chat-log": true,
