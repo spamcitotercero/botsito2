@@ -116,7 +116,7 @@ function createBot() {
       }
       reasonText = reasonText.replace(/§./g, '');
 
-      logger.warn(`Bot was kicked from the server. Reason: ${reasonText}`)
+      logger.warn(`Bot was kicked from the server.  Reason: ${reasonText}`)
    }
    );
 
