@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "BOTSITO",
+    "username": "BOTSITOOO",
     "password": "",
     "type": "mojang"
   },
@@ -32,9 +32,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 2000,
+      "repeat-delay": 20,
 
       "messages": [
+        "/register megabot megabot",
         "/login megabot",
         "/gamemode creative",
       ]
@@ -42,6 +43,6 @@
 
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-recconect-delay": 2500
+    "auto-recconect-delay": 1500
   }
 }
