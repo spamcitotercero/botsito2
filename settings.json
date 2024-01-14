@@ -32,10 +32,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 20,
+      "repeat-delay": 2000,
 
       "messages": [
-        "/register megabot megabot",
         "/login megabot",
         "/gamemode creative"
       ]
